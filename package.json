@@ -14,8 +14,8 @@
     "test": "standard"
   },
   "dependencies": {
-    "pouchdb-adapter-websql-core": "6.1.0",
-    "pouchdb-utils": "6.1.2"
+    "pouchdb-adapter-websql-core": "6.2.0",
+    "pouchdb-utils": "6.2.0"
   },
   "devDependencies": {
     "standard": "^7.1.2"
